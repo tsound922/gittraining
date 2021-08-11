@@ -1,3 +1,5 @@
 new content
 new code
 new code 2
+
+content after merge
