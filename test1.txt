@@ -3,3 +3,4 @@ new code
 new code 2
 
 content after merge
+dev2 change in dev2
